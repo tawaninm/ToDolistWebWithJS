@@ -73,10 +73,4 @@ project/
 
 ## 🧑‍💻 Author
 
-Developed with ❤️ by [Your Name]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+Developed with ❤️ by [Tawaninm]
