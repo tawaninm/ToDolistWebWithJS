@@ -50,7 +50,7 @@ project/
 
 ## 🎨 Screenshots
 
-> Add a few screenshots here to show the app in action.
+![alt text](/img/Screenweb.png)
 
 ---
 
